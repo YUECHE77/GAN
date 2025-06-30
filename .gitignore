@@ -1,0 +1,26 @@
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+__pycache__/
+**/__pycache__/
+
+# Python 相关
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Jupyter notebook 检查点和输出
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+*.ipynb~
+
+# VSCode 配置
+.vscode/
+
+# 环境和虚拟环境
+.env
+.venv/
+env/
+venv/
